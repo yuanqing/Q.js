@@ -1,0 +1,21 @@
+{
+  "name": "Q.js",
+  "description": "A micro JavaScript library.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yuanqing/Q.js",
+  "author": {
+    "name": "Lim Yuan Qing",
+    "url": "http://yuanqing.sg/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuanqing/Q.js.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
